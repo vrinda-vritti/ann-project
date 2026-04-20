@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 logs/
 .ipynb_checkpoints/
+venv/
+ai-env/
+__pycache__/
+*.pyc
+.DS_Store
+logs/
